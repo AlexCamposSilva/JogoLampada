@@ -1,0 +1,27 @@
+h1{
+    color: brown;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#lamp{
+    text-align: center;
+}
+
+#img{
+    padding: 0 0 0 0;
+   height: 400px;
+   border: solid orange 2px;
+   border-radius: 10%;
+   
+}
+
+#buttons{
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+#liga{
+    padding-left: 0 5px 0 5px;
+}
